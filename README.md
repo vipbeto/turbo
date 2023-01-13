@@ -33,7 +33,7 @@
 # Como Instalar!
 
 ````
-apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PR0/main/ssh-plus)
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/TURBONET-PR0/main/ssh-plus)
 ````
 
 # Telegram
