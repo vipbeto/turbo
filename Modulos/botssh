@@ -1,9 +1,9 @@
 #!/bin/bash
 #====================================================
 #	SCRIPT: BOTSSH ULTIMATE
-#	DESENVOLVIDO POR: @LOCKED_SSH
-#	CONTATO TELEGRAM:	http://t.me/LOCKED_SSH
-#	CANAL TELEGRAM:	http://t.me/LOCKED_SSH
+#	DESENVOLVIDO POR: @TURBONETVPN2023
+#	CONTATO TELEGRAM:	http://t.me/TURBONETVPN2023
+#	CANAL TELEGRAM:	http://t.me/TURBONETVPN2023
 #====================================================
 clear
 [[ $(awk -F" " '{print $2}' /usr/lib/licence) != "@KIRITO_SSH" ]] && exit 0
@@ -50,7 +50,7 @@ fun_botOnOff() {
         		wget -qO- sshplus.xyz/script/ShellBot.sh > /etc/SSHPlus/ShellBot.sh
         	}
             [[ ! -e "/etc/SSHPlus/ShellBot.sh" ]] && {
-				wget -qO- https://raw.githubusercontent.com/kiritosshxd/SSHPLUS/master/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
+				wget -qO- https://raw.githubusercontent.com/PhoenixxZ2023/TURBONET-PRO/main/Install/ShellBot.sh >/etc/SSHPlus/ShellBot.sh
 			}
             cd /etc/SSHPlus
             screen -dmS bot_plus ./bot $tokenbot $iduser >/dev/null 2>&1
