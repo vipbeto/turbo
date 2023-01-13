@@ -1,11 +1,5 @@
-
-# PAINEL SSH
-
-<br/>
-
-<img src="https://i.ibb.co/3NPN3LC/Pics-Art-12-20-11-35-33.jpg" height="400" width="400">
-
-<br/><br/>
+# TURBONET2023
+# Características e Funções
 
 ✅ PAINEL WEB
 
@@ -26,3 +20,22 @@
 ✅ MOSTRADOR DE CONSUMO
 
 ✅ TCPTWEAKER
+
+
+## :heavy_exclamation_mark: requisitos
+* Um sistema operacional baseado em Linux (Ubuntu ou Debian)
+* Servidor Ubuntu 18.04 x86_64 / Servidor Ubuntu 20.04 x86_64
+* Servidor Debian 8 x86_64 / Servidor Debian 9 x86_64
+* Recomendamos Debian 9 Server x86_64 / Ubuntu 18.04 Server x86_64
+* Recomenda-se usar uma distro nova ou formatada
+* O idioma padrão é o português
+
+# Como Instalar!
+
+````
+apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/PR0/main/ssh-plus)
+````
+
+# Telegram
+
+https://t.me/TURBONETVPN2023
