@@ -75,7 +75,7 @@ otimize_python() {
     #SETAR PYTHON3
     update-alternatives --set python3 /usr/bin/python3.6
 }
-figlet "TURBONET-PRO" | lolcat
+figlet "TURBONET" | lolcat
 echo "SCRIPT TURBONET-PRO!!"
 echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
 echo ""
@@ -122,7 +122,7 @@ echo -e "\n\033[1;36mINICIANDO \033[0m" ; rm $_Ink/listARM >/dev/null 2>&1
     echo ""
     [[ -f "$HOME/usuarios.db" ]] && {
         clear
-        figlet "TURBONET-PRO" | lolcat
+        figlet "TURBONET" | lolcat
         echo "SCRIPT TURBONET-PRO!!" 
         echo -e "\033[01;31m━═━═━═━═━═━═━═━━═━═━═━═━═━═━═━═━━═━═━═━═━═━━═━═━═━═━━═━═━═━═━═━═━═━━\033[0m"
         echo -e "\033[1;33mOPA DETECTAMOS..."
@@ -207,7 +207,7 @@ echo -e "\n\033[1;36mINICIANDO \033[0m" ; rm $_Ink/listARM >/dev/null 2>&1
     echo "clear" >>/root/.bashrc
     echo 'DATE=$(date +"%d-%m-%y")' >>/root/.bashrc
     echo 'TIME=$(date +"%T")' >>/root/.bashrc
-    echo 'figlet -k LOCKED | lolcat' >>/root/.bashrc
+    echo 'figlet -k TURBONET | lolcat' >>/root/.bashrc
     echo 'echo -e " NOME DO SERVIDOR : $HOSTNAME"' >>/root/.bashrc
     echo 'echo -e " SERVIDOR LIGADO À : $(uptime -p)"' >>/root/.bashrc
     echo 'echo -e " DATA : $DATE"' >>/root/.bashrc
