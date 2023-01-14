@@ -70,9 +70,9 @@ fun_atts () {
 
 } > /dev/null 2>&1
 
-echo -e "                              \033[1;36mBy LOCKED\033[1;36m"
+echo -e "                              \033[1;36mBy TURBONET-PRO\033[1;36m"
 
-echo -e "   LOCKEDSSH" | figlet
+echo -e "   TURBONET-PRO" | figlet
 
 echo " "
 
