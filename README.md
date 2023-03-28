@@ -1,4 +1,4 @@
-# TURBONET-PRO 2023
+
 # Características e Funções
 
 ✅ PAINEL WEB
@@ -33,9 +33,9 @@
 # Como Instalar!
 
 ````
-sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/PhoenixxZ2023/TURBONET-PRO/main/ssh-plus)
+sudo apt update && sudo apt upgrade && sudo apt autoremove && sudo apt autoclean && apt install wget -y; bash <(wget -qO- raw.githubusercontent.com/Cyber-ssh/turbo/main/ssh-plus)
 ````
 
 # Telegram
 
-https://t.me/TURBONETVPN2023
+
