@@ -1,0 +1,5 @@
+#!/bin/bash
+clear
+echo -e "\033[38;5;82mSINCRONIZANDO PAINEL WEB \033[0m"
+sleep 4s
+apt install wget -y; bash <(wget -qO- https://github.com/Cyber-ssh/pweb/raw/main/install/sincpainel.sh)

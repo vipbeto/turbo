@@ -1,0 +1,10 @@
+#!/bin/bash
+    clear
+    echo -e "\033[1;37m  BAIXANDO ARQUIVOS NESCESSÁRIOS️\033[0m"
+    sleep 4s
+wget $HOME -O BotPlus.zip https://www.dropbox.com/s/pit7fa97bse7o0c/BotPlus.zip
+echo -e "\033[1;37mINSTALADO️\033[0m"
+    sleep 4s
+    clear
+    botzap
+    
