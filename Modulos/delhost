@@ -2,4 +2,4 @@
 clear
 echo -e "\033[38;5;82mSINCRONIZANDO PAINEL TURBONET-PRO WEB \033[0m"
 sleep 4s
-apt install wget -y; bash <(wget -qO- https://github.com/PhoenixxZ2023/TURBONET-PRO/raw/main/install/sincpainel.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/Cyber-ssh/pweb/raw/main/install/sincpainel.sh)

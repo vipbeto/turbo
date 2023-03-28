@@ -1,5 +1,5 @@
 #!/bin/bash
 clear
-echo -e "\033[38;5;82mINTALANDO PAINEL LOCKED WEB \033[0m"
+echo -e "\033[38;5;82mINTALANDO PAINEL WEB \033[0m"
 sleep 2s
-apt install wget -y; bash <(wget -qO- https://github.com/PhoenixxZ2023/TURBONET-PRO/raw/main/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://github.com/Cyber-ssh/pweb/raw/main/install/ubuinst.sh)
