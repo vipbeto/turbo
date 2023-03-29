@@ -1,5 +1,6 @@
 #!/bin/bash
 clear
 echo -e "\033[38;5;82mINTALANDO PAINEL WEB \033[0m"
-sleep 2s
-apt install wget -y; bash <(wget -qO- https://github.com/Cyber-ssh/pweb/raw/main/install/ubuinst.sh)
+sleep 5s
+
+bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/pweb/main/raw/painel/install/ubuinst.sh)

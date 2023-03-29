@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-sleep 1s
+sleep 5s
 
 figlet "APLICATIVOS" | lolcat
 
