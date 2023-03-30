@@ -1,5 +1,9 @@
-#!/bin/bash
+#!/bin/bash 
+sleep 2
 clear
-echo -e "\033[38;5;82mMOSTRANDO CONSUMO DE SUA VPS,, PARA VOLTAR PRECIONE !!!  \033[1;37m(  CTRL + C )  \033[0m"
-sleep 4s
-apt install htop && htop
+echo ""
+echo "--------------------------------------------------------------------"
+speedtest-cli --share
+echo ""
+
+echo "--------------------------------------------------------------------"

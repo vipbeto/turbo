@@ -2044,6 +2044,7 @@ exit 0' >$RCLOCAL
 			}
 		}
 	}
+
 	x="ok"
 	fun_conexao() {
 		while true $x != "ok"; do

@@ -1,6 +1,6 @@
 #!/bin/bash
 ####################################<
-### "BY CYBERSSH SERVER MANAGER >> CYBERSSH <<" ###
+### "BY ACKHTTP SERVER MANAGER >> @GODYSKYUP <<" ###
 ####################################<
 user=$(whoami)
 if [ "$user" != "root" ]; then
