@@ -1,9 +1,9 @@
 #!/bin/bash
 #===================================================
-#	SCRIPT: OTIMIZAR	SSH-PLUS
-#	DESENVOLVIDO POR:	TURBO NET
-#	CONTATO TELEGRAM:	http://t.me/TURBONETVPN2023
-#	
+#	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
+#	DESENVOLVIDO POR:	CRAZY_VPN
+#	CONTATO TELEGRAM:	http://t.me/crazy_vpn
+#	CANAL TELEGRAM:	http://t.me/sshplus
 #===================================================
 fun_bar() {
 	comando[0]="$1"
