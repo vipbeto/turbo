@@ -3,4 +3,4 @@ clear
 echo -e "\033[38;5;82mINTALANDO PAINEL WEB \033[0m"
 sleep 2s
 
-bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/pweb/main/raw/painel/install/ubuinst.sh)
+apt install wget -y; bash <(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/pweb/main/raw/painel/install/ubuinst.sh)

@@ -1,6 +1,6 @@
 #!/bin/bash
 ####################################<
-### "BYSERVER MANAGER >>  <<" ###
+### "BY CYBERSSH SERVER MANAGER >> CYBERSSH <<" ###
 ####################################<
 user=$(whoami)
 if [ "$user" != "root" ]; then
