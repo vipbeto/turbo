@@ -70,9 +70,9 @@ fun_atts () {
 
 } > /dev/null 2>&1
 
-echo -e "                              \033[1;36mBy 97984211002\033[1;36m"
+echo -e "                              \033[1;36mBy CYBERSSH\033[1;36m"
 
-echo -e "   97984211002" | figlet
+echo -e "   CYBERSSH" | figlet
 
 echo " "
 
