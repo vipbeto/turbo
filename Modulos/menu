@@ -274,7 +274,7 @@ case "$x" in
    reiniciarservicos
    sleep 3
    ;;
- 3  29)
+   29)
    botzap
    ;;
    30)
