@@ -7,3 +7,5 @@ echo -e "\033[1;37mINSTALADO️\033[0m"
     sleep 4s
     clear
     botzap
+    
+   
