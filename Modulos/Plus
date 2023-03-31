@@ -75,7 +75,7 @@ otimize_python() {
     #SETAR PYTHON3
     update-alternatives --set python3 /usr/bin/python3.6
 }
-figlet "CYBERSSH TURBO" | lolcat
+figlet " CYBERSSH" | lolcat
 echo "INSTALAÇÃO EM ANDAMENTO....."
 #-----------------------------------------------------------------------------------------------------------------
 echo -e "\n\033[1;37mINICIANDO. \033[0m" ; rm $_Ink/list > /dev/null 2>&1; wget -P $_Ink https://raw.githubusercontent.com/Cyber-ssh/turbo/main/Install/list >/dev/null 2>&1
