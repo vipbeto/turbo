@@ -1,6 +1,6 @@
 #!/bin/bash
 #====================================================
-#	@TURBONET-PRO
+#	CYBERSSH TURBO
 #====================================================
 _lvk=$(wget -qO- https://raw.githubusercontent.com/Cyber-ssh/turbo/main/Modulos/versao)
 IP=$(wget -qO- ipv4.icanhazip.com)
